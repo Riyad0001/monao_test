@@ -104,7 +104,7 @@ DATABASES = {
         'NAME': 'mynewdb',       # তোমার নতুন db
         'USER': 'myuser',        # নতুন ইউজার
         'PASSWORD': 'mypassword',# ইউজারের পাসওয়ার্ড
-        'HOST': 'localhost',     # VPS-এ direct run করলে
+        'HOST': 'db',     # VPS-এ direct run করলে
         'PORT': '5432',
     }
 }
